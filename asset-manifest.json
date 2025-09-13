@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/krishi-Sakhi/static/css/main.adc4013c.css",
-    "main.js": "/krishi-Sakhi/static/js/main.7d667f54.js",
-    "index.html": "/krishi-Sakhi/index.html",
-    "main.adc4013c.css.map": "/krishi-Sakhi/static/css/main.adc4013c.css.map",
-    "main.7d667f54.js.map": "/krishi-Sakhi/static/js/main.7d667f54.js.map"
+    "main.css": "/Krishi-Sakhi/static/css/main.adc4013c.css",
+    "main.js": "/Krishi-Sakhi/static/js/main.5b44ccfe.js",
+    "index.html": "/Krishi-Sakhi/index.html",
+    "main.adc4013c.css.map": "/Krishi-Sakhi/static/css/main.adc4013c.css.map",
+    "main.5b44ccfe.js.map": "/Krishi-Sakhi/static/js/main.5b44ccfe.js.map"
   },
   "entrypoints": [
     "static/css/main.adc4013c.css",
-    "static/js/main.7d667f54.js"
+    "static/js/main.5b44ccfe.js"
   ]
 }
