@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Krishi-Sakhi/static/css/main.adc4013c.css",
+    "main.js": "/Krishi-Sakhi/static/js/main.5b44ccfe.js",
+    "index.html": "/Krishi-Sakhi/index.html",
+    "main.adc4013c.css.map": "/Krishi-Sakhi/static/css/main.adc4013c.css.map",
+    "main.5b44ccfe.js.map": "/Krishi-Sakhi/static/js/main.5b44ccfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc4013c.css",
+    "static/js/main.5b44ccfe.js"
+  ]
+}
