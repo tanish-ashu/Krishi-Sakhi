@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "plantingDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "harvestDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["planted", "growing", "ready", "harvested"]
+    }
+  },
+  "required": ["id", "name", "type", "plantingDate", "status"]
+}
+
+

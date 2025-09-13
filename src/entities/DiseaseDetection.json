@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "cropId": {
+      "type": "string"
+    },
+    "diseaseName": {
+      "type": "string"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "detectedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "treatment": {
+      "type": "string"
+    }
+  },
+  "required": ["id", "cropId", "diseaseName", "confidence", "detectedAt"]
+}
+
+
